@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">1Quote</string>
+    <string name="menu_info">About</string>
+    <string name="like_app">Like app</string>
+    <string name="more_apps">More Apps</string>
+    <string name="share">Share</string>
+    <string name="card_title">Quote of the day</string>
+    <string name="abt_app">About this app</string>
+
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string-array name="QUOTES">
+
+                          <!-- Add your quotes here-->
+
+        <item>“Do not cry because it is over, smile because it happened.”</item>
+        <item>“Be yourself; everyone else is already taken.”</item>
+        <item>“Two things are infinite: the universe and human stupidity; and I am not sure about the universe.” </item>
+        <item>“Friendship ... is born at the moment when one man says to another "What! You too? I thought that no one but
+            myself . . .” </item>
+        <item>“Always forgive your enemies; nothing annoys them so much.” </item>
+
+
+
+    </string-array>
+
+</resources>
